@@ -24,7 +24,7 @@
 #### 💥 __Study Project__
 - [일정 공유 웹앱](https://github.com/eunsiver/WhenWeMeet-)
 - [자기 소개 페이지](https://github.com/eunsiver/myHomepage)
-- [DataScience](https://github.com/eunsiver/DataScience)
+- [DataScience 데이콘 스터디](https://github.com/eunsiver/DataScience)
 
 #### 💥 __Spring Boot__
 - [살롱뷰 헤어 리뷰 웹앱](https://github.com/eunsiver/salonviewEunji)
