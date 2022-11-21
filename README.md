@@ -16,7 +16,7 @@
 
 #### 💥 __Spring Boot__
 - [살롱뷰 헤어 리뷰 웹앱](https://github.com/eunsiver/salonviewEunji)
-- [SpringBoot-NaverLoginAPI-Mysql]
+- [SpringBoot-NaverLoginAPI](https://github.com/eunsiver/springNaverLogin)
 #### 💥 __DB Project__
 - [영화관 데이터베이스](https://github.com/eunsiver/MovieDB_Database_Modeling)
 
