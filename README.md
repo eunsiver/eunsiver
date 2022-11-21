@@ -14,9 +14,7 @@
 - [Simple-Korean-AI-ChatBot](https://github.com/eunsiver/Chatbot_data)
 - [Simpe-English-AI-ChatBot](https://github.com/eunsiver/English_ai_chatbot)
 
-#### 💥 __Spring Boot__
-- [살롱뷰 헤어 리뷰 웹앱](https://github.com/eunsiver/salonviewEunji)
-- [SpringBoot-NaverLoginAPI](https://github.com/eunsiver/springNaverLogin)
+
 #### 💥 __DB Project__
 - [영화관 데이터베이스](https://github.com/eunsiver/MovieDB_Database_Modeling)
 
@@ -27,6 +25,10 @@
 - [일정 공유 웹앱](https://github.com/eunsiver/WhenWeMeet-)
 - [자기 소개 페이지](https://github.com/eunsiver/myHomepage)
 - [DataScience](https://github.com/eunsiver/DataScience)
+
+#### 💥 __Spring Boot__
+- [살롱뷰 헤어 리뷰 웹앱](https://github.com/eunsiver/salonviewEunji)
+- [SpringBoot-NaverLoginAPI](https://github.com/eunsiver/springNaverLogin)
 
 #### 💥 __mini Study__
 - [TicTaeToe미니 게임](https://github.com/eunsiver/TicTaeToe_MiniGame/tree/main)
