@@ -1,7 +1,5 @@
  __<center>백엔드를 공부하고 있는 개발자 이은지입니다</center>__
  
- [AI x ART 공모전 장관상](https://www.aitimes.kr/news/articleView.html?idxno=23653)
-
 ![image](https://user-images.githubusercontent.com/76419984/203124522-da400682-0592-4686-9036-cb69f9f0d2f0.png)
 
 ![image](https://user-images.githubusercontent.com/76419984/203124051-d42d98b6-489b-47de-9913-b72e02f1c985.png)
