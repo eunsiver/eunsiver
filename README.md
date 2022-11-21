@@ -23,10 +23,12 @@
 #### Django Project
 - [공동구매 사이트](https://github.com/eunsiver/GroupBuyingSite)
 
-#### Study
+#### Study Project
 - [일정 공유 웹앱](https://github.com/eunsiver/WhenWeMeet-)
 - [자기 소개 페이지](https://github.com/eunsiver/myHomepage)
 - [DataScience](https://github.com/eunsiver/DataScience)
+
+#### mini Study
 - [TicTaeToe미니 게임](https://github.com/eunsiver/TicTaeToe_MiniGame/tree/main)
 - [안드로이드 로그인](https://github.com/eunsiver/udaum)
 - [미니 그림판](https://github.com/eunsiver/PaintJS)
