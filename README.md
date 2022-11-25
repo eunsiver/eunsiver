@@ -37,7 +37,7 @@
 - [크롬 클론](https://github.com/eunsiver/ToDoList)
 - [넷프릭스 클론](https://github.com/eunsiver/Neflix)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsiver%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsiver&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **eunsiver/eunsiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
