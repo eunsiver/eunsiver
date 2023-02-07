@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/76419984/203124051-d42d98b6-489b-47de-9913-b72e02f1c985.png)
 
+개인 블로그: https://velog.io/@eunsiver
+
 #### 💥 __Unity Project__
 -  [메타버스 제작](https://github.com/eunsiver/unity_UDAUM)
 -  [메타버스 코드](https://github.com/eunsiver/U_Unity)
