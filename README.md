@@ -6,6 +6,8 @@
 
 개인 블로그: https://velog.io/@eunsiver
 
+CS 스터디 노션: https://www.notion.so/CS-7f58a04b2be7480da5bfc87d12e1c674
+
 #### 💥 __Unity Project__
 -  [메타버스 제작](https://github.com/eunsiver/unity_UDAUM)
 -  [메타버스 코드](https://github.com/eunsiver/U_Unity)
@@ -34,7 +36,6 @@
 
 #### 💥 __mini Study__
 - [TicTaeToe미니 게임](https://github.com/eunsiver/TicTaeToe_MiniGame/tree/main)
-- [안드로이드 로그인](https://github.com/eunsiver/udaum)
 - [미니 그림판](https://github.com/eunsiver/PaintJS)
 - [크롬 클론](https://github.com/eunsiver/ToDoList)
 - [넷프릭스 클론](https://github.com/eunsiver/Neflix)
