@@ -6,7 +6,7 @@
 
 개인 블로그: https://velog.io/@eunsiver
 
-CS 스터디 노션: https://www.notion.so/CS-7f58a04b2be7480da5bfc87d12e1c674
+CS 스터디 노션: [https://www.notion.so/CS-7f58a04b2be7480da5bfc87d12e1c674](https://www.notion.so/CS-e740b3a01392423c956787987fc0ae6a)
 
 #### 💥 __Unity Project__
 -  [메타버스 제작](https://github.com/eunsiver/unity_UDAUM)
