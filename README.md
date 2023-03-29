@@ -1,6 +1,6 @@
  __<center>🎶세종대 지능기전공을 다니고 있으며, 백엔드, AI를 공부하고 있는 성장하는 개발자 이은지입니다🎶</center>__
  
-![image](https://user-images.githubusercontent.com/76419984/203124522-da400682-0592-4686-9036-cb69f9f0d2f0.png)
+[![image](https://user-images.githubusercontent.com/76419984/203124522-da400682-0592-4686-9036-cb69f9f0d2f0.png)](https://www.aitimes.kr/news/articleView.html?idxno=23653)
 
 ![image](https://user-images.githubusercontent.com/76419984/203124051-d42d98b6-489b-47de-9913-b72e02f1c985.png)
 
