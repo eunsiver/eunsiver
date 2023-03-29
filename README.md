@@ -11,7 +11,8 @@ CS 스터디 노션: [https://www.notion.so/CS-7f58a04b2be7480da5bfc87d12e1c674]
 ---
  
 ###  💠 __Spring Boot__ 💠
-- [HowHair 헤어 리뷰 웹앱](https://github.com/HowHair)
+- [HowHair 헤어 리뷰 웹앱](https://github.com/eunsiver/HowHair)
+ 
 
 ### 💠 __AI Project__ 💠
 - [AI x ART 공모전](https://github.com/eunsiver/aichatWithFlask)
