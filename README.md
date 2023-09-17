@@ -7,9 +7,10 @@
 
 개인 블로그: https://velog.io/@eunsiver
 
-CS 스터디 노션: [https://www.notion.so/CS-7f58a04b2be7480da5bfc87d12e1c674](https://www.notion.so/CS-e740b3a01392423c956787987fc0ae6a)
-
 ---
+
+## 💠 __디자인 패턴__ 💠
+- [Design Pattern](https://github.com/eunsiver/PDA-JavaPattern/tree/Lee-Eunji/Lee-Eunji)
  
 ## 💠 __Spring Boot__ 💠
 - [HowHair 헤어 리뷰 웹앱](https://github.com/eunsiver/HowHair)
