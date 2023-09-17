@@ -2,7 +2,8 @@
  
 [![image](https://user-images.githubusercontent.com/76419984/203124522-da400682-0592-4686-9036-cb69f9f0d2f0.png)](https://www.aitimes.kr/news/articleView.html?idxno=23653)
 
-![image](https://user-images.githubusercontent.com/76419984/203124051-d42d98b6-489b-47de-9913-b72e02f1c985.png)
+![image](https://github.com/eunsiver/eunsiver/assets/76419984/c3832887-f346-445b-868e-8497b0ab36ad)
+
 
 개인 블로그: https://velog.io/@eunsiver
 
