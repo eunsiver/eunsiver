@@ -1,6 +1,7 @@
  __<center>🎶백엔드, AI를 공부하고 있는 성장하는 개발자 이은지입니다🎶</center>__
  
 [![image](https://user-images.githubusercontent.com/76419984/203124522-da400682-0592-4686-9036-cb69f9f0d2f0.png)](https://www.aitimes.kr/news/articleView.html?idxno=23653)
+![image](https://github.com/eunsiver/eunsiver/assets/76419984/3b94abb1-0b6b-4b7a-9e91-68bf356c12d0)
 
 개인 블로그: https://velog.io/@eunsiver
 
